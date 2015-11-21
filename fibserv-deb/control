@@ -1,0 +1,10 @@
+Package: fibserv
+Version: 0.1.0
+Section: web
+Priority: optional
+Architecture: all
+Maintainer: Tony Gaetani
+Description: clojure web service for calculating fibonacci numbers
+ .
+ usage: GET with query param i=n where n is
+ 		the index of the fibonacci number you want
